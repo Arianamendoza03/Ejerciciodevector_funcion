@@ -1,0 +1,3 @@
+C:/Users/Ariana/CLionProjects/Ejercicio de  Vector/cmake-build-debug/CMakeFiles/Ejercicio_de__Vector.dir
+C:/Users/Ariana/CLionProjects/Ejercicio de  Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ariana/CLionProjects/Ejercicio de  Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
